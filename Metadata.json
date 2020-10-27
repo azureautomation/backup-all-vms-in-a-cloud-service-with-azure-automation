@@ -1,0 +1,20 @@
+{
+    "Author": "jeffbow",
+    "ContentSize": 12242,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/backup-all-vms-in-a-cloud-service-with-azure-automation/master/Backup-AzureCloudServiceVMs.ps1",
+    "DownloadCount": 1590,
+    "Id": "Backup-all-VMs-in-a-Cloud-dbe81b42",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 453,
+    "RaterCount": 3,
+    "Rating": 4.7,
+    "ReleaseDate": "2015-2-4T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This Azure Automation runbook backs up data and OS disks for all Azure VMs in a specified Cloud Service using only the native Azure module cmdlets.  If specified it will shutdown and restart VMs that are running.  Backup storage account and container can also be specified.",
+    "Title": "Backup all VMs in a Cloud Service with Azure Automation",
+    "UpdatedDate": "2015-2-4T00:00:00",
+    "Url": "https://github.com/azureautomation/backup-all-vms-in-a-cloud-service-with-azure-automation",
+    "UserTags": "backup"
+}
